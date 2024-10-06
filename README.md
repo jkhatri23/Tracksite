@@ -1,3 +1,22 @@
+Tracksite is a web application that allows users to efficiently manage projects, courses, websites, and applications, providing easy access and organisation of resources
+
+## Features: 
+- This React-based Bookmark Manager application allows users to create, view, and manage folders and bookmarks. It uses axios to interact with a backend API, enabling CRUD operations for organizing bookmarks, with real-time updates to folder and bookmark lists upon creation or deletion.
+- Utilizes react-router-dom to create a multi-page user interface with routes for Home, About, Folders, and Login. It includes dynamic navigation and a custom logo for a smooth user experience.
+- The homepage features a simple and engaging interface where users can navigate to the main app page with a 'Begin' button. It integrates React Router’s useNavigate hook for seamless page transitions and custom CSS for a clean layout
+
+## Tech Stack: 
+
+Frontend: React, Javascript, CSS
+
+Backend: Python, FastAPI
+
+Database: MySQL
+
+Version Control: Git
+
+
+
 SQL:
 CREATE DATABASE tracksite_db;
 SHOW DATABASES;
