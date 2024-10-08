@@ -40,4 +40,6 @@ CREATE TABLE bookmarks (
     FOREIGN KEY (folder_id) REFERENCES folders(id) ON DELETE SET NULL
 );
 
-![image alt](https://github.com/joeyhlu/tracksite/blob/main/Screenshot%202024-10-05%20at%204.42.15%20PM.png?raw=true)
+
+https://github.com/user-attachments/assets/5af327e4-a83f-40a0-82cd-69c29fb072ce
+
